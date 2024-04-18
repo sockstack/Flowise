@@ -426,8 +426,8 @@ export default {
                     name: 'glm-4'
                 },
                 {
-                    label: 'glm-3-turbo1',
-                    name: 'glm-3-turbo1'
+                    label: 'glm-3-turbo',
+                    name: 'glm-3-turbo'
                 }
             ]
         },
