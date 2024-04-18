@@ -1,7 +1,7 @@
 import { INodeOptionsValue } from './Interface'
 import axios from 'axios'
 
-const MASTER_MODEL_LIST = 'https://raw.githubusercontent.com/FlowiseAI/Flowise/main/packages/components/models.json'
+const MASTER_MODEL_LIST = '/api/v1/config/getModels'
 
 export enum MODEL_TYPE {
     CHAT = 'chat',
